@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @willfm22
-- 👀 I’m interested in  aprimorar meus conhecimento na area de ti 
-- 🌱 I’m currently learning  BI e SQL
+- 👀 I’m interested in  aprimorar meus conhecimento na area de TI 
+- 🌱 I'm transitioning career to IT infrastructure
 - 💞️ I’m looking to collaborate on  projetos futuros 
 - 📫 How to reach me  LinkedIn William Gonçalves
 
