@@ -4,7 +4,7 @@ Sou Técnico de automação industrial e eletrotécnico. Formado em gestão de T
 
 # Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/WilliamGoncalves/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-goncalves-57a83220a/)
 
 
 ## 📚☕ Atualmente estou estudando:
